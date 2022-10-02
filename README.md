@@ -1,5 +1,12 @@
+# Demo of BlurHash 
+## BlurHash improving Next.js app performance - [link](https://blog.logrocket.com/improving-nextjs-app-performance-blurhash/)
+
+Building a web app quickly and creating a fast-loading web app are two different things.
+The time it takes a web app to load to the client depends on how long it takes to serve its application code, styles, and data to the client in the first initial load.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+[next/image](https://nextjs.org/docs/api-reference/next/image) support BlurHash with blurDataURL prop.
 ## Getting Started
 
 First, run the development server:
